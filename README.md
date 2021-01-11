@@ -1,2 +1,2 @@
 # Firebase-Python
-Connect firebase script with python
+Connect your python script with firebase.
